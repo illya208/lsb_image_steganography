@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (test_opencv.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(112): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(111): warning C4101: Matrix: неиспользованная локальная переменная
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(120): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(122): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(126): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(130): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(170): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(171): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(174): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\header.h(177): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\source.cpp(21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\source.cpp(21): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+c:\users\illya\source\repos\test_opencv\test_opencv\source.cpp(186): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  test_opencv.vcxproj -> C:\Users\illya\source\repos\test_opencv\x64\Debug\lsb_opencv.exe
